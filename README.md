@@ -12,4 +12,4 @@
 
 <div align="center">
 
-<img src="https://file.garden/ZroW4OcqSGtS0a5j/ba1252b24de3afc46073f91ac75e10f4d1e71807.gif" alt="platonically" height=“400” width="300">
+<img src="https://file.garden/ZroW4OcqSGtS0a5j/hwo%20%26%20steve.gif" alt="platonically" height=“400” width="300">
