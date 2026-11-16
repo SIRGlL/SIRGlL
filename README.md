@@ -1,4 +1,4 @@
-p<p align="center">
+<p align="center">
 <img src="https://file.garden/ZroW4OcqSGtS0a5j/11deeaf5ce9605a7ba49cf2485d7cbeb.jpg" alt="" width="auto" height="auto">
 
 <p align="center">
@@ -7,14 +7,13 @@ p<p align="center">
   </a>
 </p>
 
-<p align="center">
-
+<div align="center">
 
 $\text{\color{#A1A100}{ℎ𝑒𝑦 𝑐𝑜𝑜𝑙 𝑝𝑒𝑟𝑠𝑜𝑛 𝑟𝑒𝑎𝑑𝑖𝑛𝑔 𝑡ℎ𝑖𝑠.}} \quad \text{\color{#A1A100}{𝑖𝑚 𝑛𝑜𝑡 𝑚𝑎𝑘𝑖𝑛𝑔 𝑡ℎ𝑖𝑠 𝑎𝑛𝑦 𝑝𝑟𝑒𝑡𝑡𝑖𝑒𝑟}} \quad \text{\color{#A1A100}{𝑐𝑢𝑧 𝑖𝑚 𝑎 𝑙𝑎𝑧𝑦 𝑏𝑢𝑚.}}$
 
-$\text{\color{#A1A100}{𝑗𝑢𝑠𝑡 𝑐𝑎𝑙𝑙 𝑚𝑒 𝑠𝑐𝑎𝑡𝑡𝑒𝑟 𝑜𝑟 𝑠𝑜𝑚𝑛𝑜,}} \quad \text{\color{#A1A100}{𝑠𝑜𝑙𝑙𝑢𝑥 𝑖𝑠 𝑛𝑖𝑐𝑒 𝑡𝑜𝑜!}} \quad \text{\color{#A1A100}{𝑑𝑜𝑢𝑏𝑙𝑒𝑠 𝑖𝑛𝑡 𝑓𝑟𝑒𝑒𝑙𝑦 ℎ𝑒ℎ 𝑡𝑤𝑖𝑛𝑠}}$
+$\text{\color{#A1A100}{𝑗𝑢𝑠𝑡 𝑐𝑎𝑙𝑙 𝑚𝑒 𝑠𝑐𝑎𝑡𝑡𝑒𝑟 𝑜𝑟 𝑠𝑜𝑚𝑛𝑜,}} \quad \text{\color{#A1A100}{𝑠𝑜𝑙𝑙𝑢𝑥 𝑖𝑠 𝑛𝑖𝑐𝑒 𝑡𝑜𝑜!}} \quad \text{\color{#A1A100}{𝑑𝑜𝑢𝑏𝑙𝑒𝑠 𝑖𝑛𝑡 𝑓𝑟𝑒𝑒𝑙𝑦 ℎ𝑒ℎ 𝑡𝑤𝑖𝑛𝑠}}$ <br>
 
-$\text{\color{#A1A100}{𝑠𝑜𝑙𝑙𝑢𝑥 𝑐𝑎𝑝𝑡𝑜𝑟 𝑘𝑖𝑛𝑛𝑖𝑒 ℎ𝑒𝑙𝑙 𝑦𝑒𝑠}} \quad \text{\color{#A1A100}{𝑖 𝑑𝑜𝑛𝑡 𝑏𝑖𝑡𝑒 𝑎𝑡 𝑎𝑙𝑙 𝑏𝑡𝑤}} \quad \text{\color{#A1A100}{𝑠𝑒𝑒𝑖𝑛𝑔 𝑖𝑠 𝑏𝑒𝑙𝑖𝑒𝑣𝑖𝑛𝑔<3}} \quad \text{\color{#A1A100}{𝑖 𝑙𝑖𝑘𝑒 ℎ𝑖𝑚 𝑎𝑙𝑜𝑡 𝑡𝑜𝑜}} \quad \text{\color{#A1A100}{ℎ𝑒𝑠 𝑣𝑒𝑟𝑦 𝑐𝑜𝑜𝑙 𝑎𝑛𝑑 𝑟𝑙𝑙𝑦 𝑚𝑒}}$
+$\text{\color{#A1A100}{𝑠𝑜𝑙𝑙𝑢𝑥 𝑐𝑎𝑝𝑡𝑜𝑟 𝑘𝑖𝑛𝑛𝑖𝑒 ℎ𝑒𝑙𝑙 𝑦𝑒𝑠}} \quad \text{\color{#A1A100}{𝑖 𝑑𝑜𝑛𝑡 𝑏𝑖𝑡𝑒 𝑎𝑡 𝑎𝑙𝑙 𝑏𝑡𝑤}} \quad \text{\color{#A1A100}{𝑠𝑒𝑒𝑖𝑛𝑔 𝑖𝑠 𝑏𝑒𝑙𝑖𝑒𝑣𝑖𝑛𝑔<3}} \quad \text{\color{#A1A100}{𝑖 𝑙𝑖𝑘𝑒 ℎ𝑖𝑚 𝑎𝑙𝑜𝑡 𝑡𝑜𝑜}} \quad \text{\color{#A1A100}{ℎ𝑒𝑠 𝑣𝑒𝑟𝑦 𝑐𝑜𝑜𝑙 𝑎𝑛𝑑 𝑟𝑙𝑙𝑦 𝑚𝑒}}$ <br>
 
 $\text{\color{#A1A100}{𝑎𝑔𝑒𝑑 17 , 𝑖 𝑝𝑟𝑒𝑓𝑒𝑟 𝑏𝑒𝑖𝑛𝑔 𝑢𝑠𝑒𝑑 ℎ𝑒/𝑡ℎ𝑒𝑦 𝑜𝑛 𝑚𝑒 𝑘𝑖𝑛𝑑𝑙𝑦 ,}}\\
 \text{\color{#A1A100}{𝑑𝑒𝑚𝑖𝑟𝑜𝑚𝑎𝑛𝑡𝑖𝑐 𝑎𝑠𝑒𝑥𝑢𝑎𝑙 , 𝑠𝑜𝑚𝑒𝑡𝑖𝑚𝑒𝑠 𝑖𝑑 𝑔𝑒𝑡 ℎ𝑒𝑎𝑣𝑦}}\\
@@ -26,4 +25,4 @@ $\text{\color{#A1A100}{𝑖 𝑏𝑙𝑜𝑐𝑘 𝑓𝑟𝑒𝑒𝑙𝑦,}} \qu
 
 $\text{\color{#A1A100}{𝑛𝑜 𝑠𝑡𝑟𝑎𝑤𝑝𝑎𝑔𝑒 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑖 𝑒𝑛𝑐𝑜𝑢𝑟𝑎𝑔𝑒 𝑢 𝑡𝑜 𝑎𝑠𝑘 𝑚𝑒 𝑚𝑜𝑟𝑒}} \quad \text{\color{#A1A100}{𝑎𝑏𝑜𝑢𝑡 𝑚𝑦𝑠𝑒𝑙𝑓 𝑜𝑛 𝑦𝑜𝑢𝑟 𝑜𝑤𝑛 𝑑𝑖𝑟𝑒𝑐𝑡𝑙𝑦, 𝑝𝑙𝑢𝑠 𝑚𝑦 𝑠𝑡𝑟𝑎𝑤𝑝𝑎𝑔𝑒 𝑙𝑜𝑜𝑘𝑠 𝑙𝑖𝑘𝑒 𝑎𝑠𝑠 𝑎𝑛𝑦𝑤𝑎𝑦.}}$
 
-</p>
+</div>
