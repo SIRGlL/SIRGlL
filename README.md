@@ -1,15 +1,28 @@
 <p align="center">
+<img src="https://file.garden/ZroW4OcqSGtS0a5j/11deeaf5ce9605a7ba49cf2485d7cbeb.jpg" alt="" width="auto" height="auto">
+
+<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zagpfr6pvi7t6x6m2d3nsey5fi&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zagpfr6pvi7t6x6m2d3nsey5fi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=0f1c1f&interchange=true&profanity=false&hide_remaster=false&bar_color=4f7d76&bar_color_cover=false&mode=dark">
   </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/whiteSHADOW1234/TypingSVG">
-  <img src="https://typingsvg.vercel.app/api/svg?backgroundOpacity=0&border=false&cursorStyle=block&lines=%5B%7B%22text%22%3A%22%EA%B1%B0+%EB%AD%90+%2C+%ED%95%84+%EC%82%B4%EA%B8%B0+%EA%B0%99%EC%9D%80+%EA%B1%B4+%EC%97%86+%EC%96%B4+%3F%22%2C%22color%22%3A%22%23e02d00%22%2C%22fontSize%22%3A20%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22%EB%B2%8C%EC%8D%A8+%EB%81%9D+%EC%9D%B4+%EC%95%BC+%3F+%EB%8D%94+%EB%8D%A4+%EB%B2%BC++%EB%B4%90+%21%22%2C%22color%22%3A%22%23e02d00%22%2C%22fontSize%22%3A20%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22%EC%A0%95%EB%A7%90+%EB%94%B0+%EB%B6%84+%ED%95%9C+%EC%8B%9C+%ED%95%A9+%EC%9D%B4+%EC%97%88+%EC%96%B4.%22%2C%22color%22%3A%22%23e02d00%22%2C%22fontSize%22%3A20%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22%EB%8D%94%EB%8A%94++%EB%AC%B4+%EC%8A%B9+%EB%B6%80+%EB%9D%BC+%EB%8A%94++%EC%86%8C+%EB%A6%AC+%EB%8A%94++%EB%AA%BB+%ED%95%98+%EA%B2%A0+%EC%A7%80+%3F%22%2C%22color%22%3A%22%23e02d00%22%2C%22fontSize%22%3A20%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.1%7D%5D" alt="Typing SVG" /></a>
+
+
+$\text{\color{#A1A100}{ℎ𝑒𝑦 𝑐𝑜𝑜𝑙 𝑝𝑒𝑟𝑠𝑜𝑛 𝑟𝑒𝑎𝑑𝑖𝑛𝑔 𝑡ℎ𝑖𝑠. 𝑖𝑚 𝑛𝑜𝑡 𝑚𝑎𝑘𝑖𝑛𝑔 𝑡ℎ𝑖𝑠 𝑎𝑛𝑦 𝑝𝑟𝑒𝑡𝑡𝑖𝑒𝑟 𝑐𝑢𝑧 𝑖𝑚 𝑎 𝑙𝑎𝑧𝑦 𝑏𝑢𝑚.}}$
+
+$\text{\color{#A1A100}{𝑗𝑢𝑠𝑡 𝑐𝑎𝑙𝑙 𝑚𝑒 𝑠𝑐𝑎𝑡𝑡𝑒𝑟 𝑜𝑟 𝑠𝑜𝑚𝑛𝑜, 𝑠𝑜𝑙𝑙𝑢𝑥 𝑖𝑠 𝑛𝑖𝑐𝑒 𝑡𝑜𝑜! 𝑑𝑜𝑢𝑏𝑙𝑒𝑠 𝑖𝑛𝑡 𝑓𝑟𝑒𝑒𝑙𝑦 ℎ𝑒ℎ 𝑡𝑤𝑖𝑛𝑠}}$
+
+$\text{\color{#A1A100}{𝑠𝑜𝑙𝑙𝑢𝑥 𝑐𝑎𝑝𝑡𝑜𝑟 𝑘𝑖𝑛𝑛𝑖𝑒 ℎ𝑒𝑙𝑙 𝑦𝑒𝑠 𝑖 𝑑𝑜𝑛𝑡 𝑏𝑖𝑡𝑒 𝑎𝑡 𝑎𝑙𝑙 𝑏𝑡𝑤 𝑠𝑒𝑒𝑖𝑛𝑔 𝑖𝑠 𝑏𝑒𝑙𝑖𝑒𝑣𝑖𝑛𝑔<3 𝑖 𝑙𝑖𝑘𝑒 𝑎𝑙𝑜𝑡 𝑡𝑜𝑜 ℎ𝑒𝑠 𝑣𝑒𝑟𝑦 𝑐𝑜𝑜𝑙 𝑎𝑛𝑑 𝑟𝑙𝑙𝑦 𝑚𝑒}}$
+
+$\text{\color{#A1A100}{𝑎𝑔𝑒𝑑 17 , 𝑖 𝑝𝑟𝑒𝑓𝑒𝑟 𝑏𝑒𝑖𝑛𝑔 𝑢𝑠𝑒𝑑 ℎ𝑒/𝑡ℎ𝑒𝑦 𝑜𝑛 𝑚𝑒 𝑘𝑖𝑛𝑑𝑙𝑦 , 𝑑𝑒𝑚𝑖𝑟𝑜𝑚𝑎𝑛𝑡𝑖𝑐 𝑎𝑠𝑒𝑥𝑢𝑎𝑙 , 𝑠𝑜𝑚𝑒𝑡𝑖𝑚𝑒𝑠 𝑖𝑑 𝑔𝑒𝑡 ℎ𝑒𝑎𝑣𝑦 𝑎𝑛𝑑 𝑟𝑎𝑝𝑖𝑑 𝑚𝑜𝑜𝑑 𝑠𝑤𝑖𝑛𝑔𝑠 , 𝑖 𝑡𝑟𝑦 𝑚𝑦 𝑏𝑒𝑠𝑡 𝑡𝑜 𝑛𝑜𝑡 𝑙𝑎𝑠ℎ 𝑜𝑢𝑡 𝑖𝑛𝑔𝑎𝑚𝑒 𝑜𝑓𝑐}}$
+
+$\text{\color{#A1A100}{𝑚𝑦 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝑠 𝑎𝑟𝑒 𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑧𝑜𝑚𝑏𝑜𝑖𝑑, 𝑡𝑒𝑘𝑘𝑒𝑛, 𝑟𝑜𝑏𝑙𝑜𝑥, ℎ𝑜𝑚𝑒𝑠𝑡𝑢𝑐𝑘, 𝑡𝑜𝑜𝑛𝑠 𝑢𝑛𝑖𝑣𝑒𝑟𝑠𝑒, 𝑙4𝑑2 𝑎𝑛𝑑 𝑠𝑜 𝑚𝑢𝑐ℎ 𝑚𝑜𝑎𝑟 𝑏𝑢𝑡 𝑖 𝑓𝑜𝑟𝑔𝑜𝑡..}}$
+
+$\text{\color{#A1A100}{𝑖 𝑏𝑙𝑜𝑐𝑘 𝑓𝑟𝑒𝑒𝑙𝑦, 𝑑𝑜𝑒𝑠 𝑛𝑜𝑡 𝑒𝑞𝑢𝑎𝑙 𝑡𝑜 𝑚𝑒 𝑏𝑒𝑖𝑛𝑔 𝑜𝑘 𝑤𝑖𝑡ℎ 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑎𝑡𝑖𝑐 𝑠𝑡𝑢𝑓𝑓 𝑜𝑟 𝑝𝑒𝑜𝑝𝑙𝑒. 𝑖𝑘 𝑤ℎ𝑎𝑡 𝑖𝑚 𝑑𝑜𝑖𝑛𝑔.}}$
+
+$\text{\color{#A1A100}{𝑛𝑜 𝑠𝑡𝑟𝑎𝑤𝑝𝑎𝑔𝑒 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑖 𝑒𝑛𝑐𝑜𝑢𝑟𝑎𝑔𝑒 𝑢 𝑡𝑜 𝑎𝑠𝑘 𝑚𝑒 𝑚𝑜𝑟𝑒 𝑎𝑏𝑜𝑢𝑡 𝑚𝑦𝑠𝑒𝑙𝑓 𝑜𝑛 𝑦𝑜𝑢𝑟 𝑜𝑤𝑛 𝑑𝑖𝑟𝑒𝑐𝑡𝑙𝑦, 𝑝𝑙𝑢𝑠 𝑚𝑦 𝑠𝑡𝑟𝑎𝑤𝑝𝑎𝑔𝑒 𝑙𝑜𝑜𝑘𝑠 𝑙𝑖𝑘𝑒 𝑎𝑠𝑠 𝑎𝑛𝑦𝑤𝑎𝑦.}}$
+
 
 </p>
-
-<div align="center">
-
-<img src="https://file.garden/ZroW4OcqSGtS0a5j/hwo%20%26%20steve.gif" alt="platonically" height=“400” width="300">
