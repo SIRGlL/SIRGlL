@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://file.garden/ZroW4OcqSGtS0a5j/we%20vibin.gif" alt="me n him" width="90" height="99">
+<img src="https://file.garden/ZroW4OcqSGtS0a5j/we%20vibin.gif" alt="me n him" width="190" height="99">
 
 $\text{\color{#c7b360}{“𝐻𝑜𝑤 𝑂𝑑𝑑 𝐼𝑡 𝐼𝑠 𝑇𝑜 𝐵𝑒} \color{#a98f5c}{𝐻𝑎𝑢𝑛𝑡𝑒𝑑} \color{#8b6b6b}{𝐵𝑦 𝑆𝑜𝑚𝑒𝑜𝑛𝑒} \color{#775575}{𝐴𝑙𝑖𝑣𝑒} \color{#642e86}{.”}}$
 
